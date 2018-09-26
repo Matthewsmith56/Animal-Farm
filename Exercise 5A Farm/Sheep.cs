@@ -25,7 +25,7 @@ namespace Exercise_5A_Farm
             }
             else if (var4 == "3")
             {
-                Console.WriteLine("The third sheep says \"We haven't tried real socialism\"");
+                Console.WriteLine("The third sheep says \"We haven't tried real Marxism\"");
                 SheepActions();
             }
             else if (var4 == "4")
