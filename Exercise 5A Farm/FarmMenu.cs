@@ -51,7 +51,7 @@ namespace Exercise_5A_Farm
             Console.WriteLine("The chickens have been fed and return to their Coops. " +
                               "\n   They silently judge your life decisions and talk about you when you're gone " +
                               "\n   They know your weaknesses and fears, they are the enemy of the proud and the " +
-                              "\n   harbingers of judgement....do not underestimate them");
+                              "\n   harbingers of judgment....do not underestimate them");
             Console.ReadKey();
             Console.Clear();
             MainMenu();
